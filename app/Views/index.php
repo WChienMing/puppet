@@ -1,55 +1,24 @@
 <main class="main m-0 p-0">
     <section class="section-hero">
-        <div class="section-hero__container container">
-            <div class="section-hero__wrapper">
-                <div class="section-hero__content">
-                    <h1 class="section-hero__title nft-h1 animate__animated animate__fadeInLeft">The New Vaporvawe Freakzer NFT Collection</h1>
-                    <div class="section-hero__text animate__animated animate__fadeInLeft animate__delay-1s">
+        <div class="section-hero__container container" style="position: relative; text-align: center;">
+            <img src="public/img/nft1.png" alt="" style="width: 60%;">
+            <div class="section-hero__wrapper justify-content-center">
+                <div class="section-hero__content" style="position: absolute;
+                    top: 88%;
+                    left: 50%;
+                    transform: translate(-50%, -50%);
+                    font-size: 2em;
+                    z-index: 2; color: #fff !important;">
+                    <h1 class="section-hero__title nft-h1 animate__animated animate__fadeInLeft d-flex justify-content-center" style="color: #fff !important; white-space: nowrap;">The New Vaporvawe Freakzer NFT Collection</h1>
+                    <div class="section-hero__text animate__animated animate__fadeInLeft animate__delay-1s pb-0 d-flex justify-content-center" style="white-space: nowrap;">
                     "Step into the Extraordinary: Puppet NFTs – Where Ancient Tales Meet Digital Wonders!"
                     </div>
-                    <div class="section-hero__button animate__animated animate__fadeInUp animate__delay-1s"><a class="btn btn-animate btn-animate--primary" href="#" style="opacity: 1; visibility: inherit; overflow: visible">
-                            <div class="btn-animate__container" style="transform: translate(0px, 0%)">
-                                <div class="btn-animate__background btn-animate__background--primary"></div>
-                                <div class="btn-animate__icon-mask">
-                                    <div class="btn-animate__icon-container">
-                                        <div class="btn-animate__icon-background btn-animate__icon-background--primary" style="opacity: 0; visibility: hidden"></div>
-                                        <svg viewBox="0 0 7 4" class="btn-animate__icon btn-animate__icon--primary" fill="currentColor" style="
-                                            transform: translate(-25px, 0px) rotate(-90deg);
-                                            opacity: 0;
-                                            visibility: hidden;
-                                            ">
-                                            <path d="M3.5 2.4L.9.1l-.9 1 3.1 2.7c.3.2.7.2.9 0L7 1 6 0 3.5 2.4z" fill-rule="evenodd"></path>
-                                        </svg>
-                                    </div>
-                                </div>
-                                <div class="btn-animate__text-container" style="transform: translate3d(0em, 0px, 0px)">
-                                    <p class="btn-animate__text btn-animate__text--primary">Buy on OpenSea</p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="section-hero__image animate__animated animate__fadeIn">
-                    <div class="section-hero__image-img section-hero__image-img--1" style="transform: translate3d(0px, 0px, 0px); transform-style: preserve-3d; backface-visibility: hidden">
-                        <img src="public/img/nft-image-1.jpg" alt="" />
-                    </div>
-                    <div class="section-hero__image-img section-hero__image-img--2" style="transform: translate3d(0px, 0px, 0px); transform-style: preserve-3d; backface-visibility: hidden">
-                        <img src="public/img/nft-image-2.jpg" alt="" />
-                    </div>
-                    <div class="section-hero__image-img section-hero__image-img--3" style="transform: translate3d(0px, 0px, 0px); transform-style: preserve-3d; backface-visibility: hidden">
-                        <img src="public/img/nft-image-3.jpg" alt="" />
-                    </div>
-                    <div class="section-hero__image-img section-hero__image-img--4" style="transform: translate3d(0px, 0px, 0px); transform-style: preserve-3d; backface-visibility: hidden">
-                        <img src="public/img/nft-image-4.jpg" alt="" />
-                    </div>
-                    <div class="section-hero__image-img section-hero__image-img--5" style="transform: translate3d(0px, 0px, 0px); transform-style: preserve-3d; backface-visibility: hidden">
-                        <img src="public/img/nft-image-1.jpg" alt="" />
-                    </div>
+                    <button class="get_em_button">GET EM</button>
                 </div>
             </div>
         </div>
     </section>
-    <section style="background: #0C80FB;">
+    <section style="background: #000; border-top: 6px solid #CAE9EA; border-bottom: 6px solid #8C3DFD; transform: rotate(357deg);">
         <div class="row">
             <ul class="social__list">
                 <li class="social__item">
@@ -86,7 +55,7 @@
             </ul>
         </div>
     </section>
-    <section class="section-description">
+    <!-- <section class="section-description">
         <div class="section-description__container container">
             <div class="section-description__wrapper row">
                 <div class="section-description__column col-lg-7 col-md-10 col-12">
@@ -99,8 +68,8 @@
                 </div>
             </div>
         </div>
-    </section>
-    <section id="philosophy" class="section-philosophy">
+    </section> -->
+    <!-- <section id="philosophy" class="section-philosophy">
         <div class="section-philosophy__container container">
             <div class="row m-0 justify-content-between">
                 <div class="section-philosophy__column p-0 col-md-5">
@@ -123,8 +92,8 @@
                 </div>
             </div>
         </div>
-    </section>
-    <section class="section-numbers">
+    </section> -->
+    <!-- <section class="section-numbers">
         <div class="section-numbers__container container">
             <h2 class="section-numbers__title nft-h2">Behold: Their Majesty</h2>
             <ul class="section-numbers__list cards__list row">
@@ -145,37 +114,58 @@
                 </li>
             </ul>
         </div>
-    </section>
-    <section class="section-gallery">
-        <div class="section-gallery__container container">
-            <div class="section-gallery__wrapper" style="display: flex;flex-direction: column; justify-content: flex-end;">
-                <h2 class="section-gallery__title nft-h2 linear">Still more?</h2>
-                <p class="section-gallery__text">
-                Unleash the magic with our diverse Puppet NFT collection! Each puppet possesses distinct abilities, making them a one-of-a-kind digital treasure. From mind-bending talents to mesmerizing energy manipulation, our variants redefine the NFT experience.
-                </p>
+    </section> -->
+    <div style="background-image: url(public/img/background.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;">
+        <section class="section-description">
+            <div class="section-description__container container">
+                <div class="section-description__wrapper row">
+                    <div class="section-description__column col-lg-12 col-md-12 col-12">
+                        <h2 class="section-description__title nft-h2 linear" style="text-align: center; color: #FFF;">HOW IT HAPPENED ??</h2>
+                        <p class="section-description__text" style="text-align: center; color: #FFF;">
+                        Unexpected Crossing in an ordinary city, lived a man named Steve, a typical office worker whose life was mundane and somewhat dull. Each day, he navigated through the hustle and bustle of the office, diligently working, yet feeling a peculiar 
+                        <br>
+                        yearning for something beyond the routine.
+                        <br>
+                        One day, as Steve was heading home, he stumbled upon an abandoned, ancient bookstore. Driven by curiosity, he entered and picked up an old book. As he flipped through its pages, a sudden surge of energy engulfed him, spiriting him away into a world of vibrant colors and oddities. To his astonishment, he found himself transformed into a puppet-like being.
+                        </p>
+                    </div>
+                </div>
             </div>
-            <div class="section-gallery__carousel owl-carousel owl-theme">
-                <a href="#" class="section-gallery__carousel-item section-gallery__carousel-item--1">
-                    <img src="public/img/nft-carousel-1.jpg" alt="" />
-                </a>
-                <a href="#" class="section-gallery__carousel-item section-gallery__carousel-item--2">
-                    <img src="public/img/nft-carousel-2.jpg" alt="" />
-                </a>
-                <a href="#" class="section-gallery__carousel-item section-gallery__carousel-item--3">
-                    <img src="public/img/nft-carousel-3.jpg" alt="" />
-                </a>
-                <a href="#" class="section-gallery__carousel-item section-gallery__carousel-item--4">
-                    <img src="public/img/nft-carousel-4.jpg" alt="" />
-                </a>
-                <a href="#" class="section-gallery__carousel-item section-gallery__carousel-item--5">
-                    <img src="public/img/nft-carousel-5.jpg" alt="" />
-                </a>
-                <a href="#" class="section-gallery__carousel-item section-gallery__carousel-item--6">
-                    <img src="public/img/nft-carousel-3.jpg" alt="" />
-                </a>
+        </section>
+        <section class="section-gallery">
+            <div class="section-gallery__container container">
+                <div class="section-gallery__wrapper" style="display: flex;flex-direction: column; justify-content: center;">
+                    <h2 class="section-gallery__title nft-h2" style="color: #FFF;">Still more?</h2>
+                    <p class="section-gallery__text" style="color: #FFF;">
+                    Unleash the magic with our diverse Puppet NFT collection! Each puppet possesses distinct abilities, making them a one-of-a-kind digital treasure. From mind-bending talents to mesmerizing energy manipulation, our variants redefine the NFT experience.
+                    </p>
+                </div>
+                <div class="section-gallery__carousel owl-carousel owl-theme">
+                    <a href="#" class="section-gallery__carousel-item section-gallery__carousel-item--1">
+                        <img src="public/img/nft-carousel-1.jpg" alt="" />
+                    </a>
+                    <a href="#" class="section-gallery__carousel-item section-gallery__carousel-item--2">
+                        <img src="public/img/nft-carousel-2.jpg" alt="" />
+                    </a>
+                    <a href="#" class="section-gallery__carousel-item section-gallery__carousel-item--3">
+                        <img src="public/img/nft-carousel-3.jpg" alt="" />
+                    </a>
+                    <a href="#" class="section-gallery__carousel-item section-gallery__carousel-item--4">
+                        <img src="public/img/nft-carousel-4.jpg" alt="" />
+                    </a>
+                    <a href="#" class="section-gallery__carousel-item section-gallery__carousel-item--5">
+                        <img src="public/img/nft-carousel-5.jpg" alt="" />
+                    </a>
+                    <a href="#" class="section-gallery__carousel-item section-gallery__carousel-item--6">
+                        <img src="public/img/nft-carousel-3.jpg" alt="" />
+                    </a>
+                </div>
             </div>
-        </div>
-    </section>
+        </section>
+    </div>
     <section class="container" style="height: 1000px;">
         <div class="section-gallery__container container" style="justify-content: space-around;">
             <div class="section-gallery__wrapper">

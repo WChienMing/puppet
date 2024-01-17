@@ -2,10 +2,10 @@
 
 
 @font-face {
-  font-family: 'Super Spicy';
+  font-family: 'Legwork';
   font-style: normal;
   font-weight: normal;
-  src:  url('/puppet/public/fonts/SuperSpicy.woff') format('woff');
+  src:  url('/puppet/public/fonts/Legwork.woff') format('woff');
 }
 
 body {
@@ -27,7 +27,7 @@ body.theme-dark {
 .logo {
   margin: 0;
   padding: 0;
-  font-family: "Super Spicy", cursive;
+  font-family: "Legwork", cursive;
   font-weight: 400;
   font-size: 26px;
   line-height: 41px;
@@ -35,7 +35,7 @@ body.theme-dark {
   text-transform: uppercase;
   letter-spacing: 0.02em;
   /* color: #222; */
-  color: #0F83F3;
+  color: #fff;
 }
 
 .main {
@@ -138,7 +138,7 @@ body.theme-dark {
   height: 35px;
   flex-shrink: 0;
   margin-right: 17px;
-  font-family: "Super Spicy", cursive;
+  font-family: "Legwork", cursive;
   font-style: normal;
   font-weight: 400;
   font-size: 29.5775px;
@@ -294,12 +294,12 @@ a.link-demo--visit {
   color: #0F83F3;
 }
 
-.linear{
+/* .linear{
   background: var(--Linear, linear-gradient(180deg, #C7D6FC 0%, #A4B7E9 100%));
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-}
+} */
 
 .nft-h2,
 .nft-h3,
@@ -320,7 +320,7 @@ a.link-demo--visit {
 .nft-h1 {
   margin: 0;
   padding: 0;
-  font-family: "Super Spicy", cursive;
+  font-family: "Legwork", cursive;
   font-weight: 400;
   font-size: 35px;
   line-height: 41px;
@@ -338,7 +338,7 @@ a.link-demo--visit {
 .nft-h2 {
   margin: 0;
   padding: 0;
-  font-family: "Super Spicy", cursive;
+  font-family: "Legwork", cursive;
   font-weight: 400;
   font-size: 20px;
   line-height: 24px;
@@ -371,7 +371,7 @@ a.link-demo--visit {
 .nft-h3 {
   margin: 0;
   padding: 0;
-  font-family: "Super Spicy", cursive;
+  font-family: "Legwork", cursive;
   font-weight: 400;
   font-size: 30px;
   line-height: 40px;
@@ -384,7 +384,7 @@ a.link-demo--visit {
 .nft-h4 {
   margin: 0;
   padding: 0;
-  font-family: "Super Spicy", cursive;
+  font-family: "Legwork", cursive;
   font-weight: 400;
   font-size: 16px;
   line-height: 23px;
@@ -428,7 +428,7 @@ a.link-demo--visit {
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  font-family: "Super Spicy", cursive;
+  font-family: "Legwork", cursive;
   font-size: 12px;
   line-height: 30px;
   letter-spacing: 0.02em;
@@ -504,7 +504,7 @@ a.link-demo--visit {
   border: 1px solid #fff;
 }
 .btn-animate__text {
-  font-family: "Super Spicy", cursive;
+  font-family: "Legwork", cursive;
   font-size: 10px;
   line-height: 26px;
   letter-spacing: 0.02em;
@@ -625,7 +625,7 @@ a.link-demo--visit {
   }
 }
 .btn-slide__text {
-  font-family: "Super Spicy", cursive;
+  font-family: "Legwork", cursive;
   white-space: nowrap;
   font-size: 17px;
   line-height: 30px;
@@ -700,7 +700,7 @@ a.link-demo--visit {
   object-position: center;
 }
 .cards__number {
-  font-family: "Super Spicy", cursive;
+  font-family: "Legwork", cursive;
   font-size: 28px;
   line-height: 48px;
   color: #1d51fe;
@@ -953,8 +953,8 @@ a.link-demo--visit {
   margin-bottom: 0;
 }
 .header .navbar-nav .nav-link {
-  font-family: "Kanit", sans-serif;
-  color: #222;
+  font-family: "Legwork", cursive;
+  color: #fff;
   margin-top: 0;
   padding: 10px 0px;
   white-space: nowrap;
@@ -1066,14 +1066,15 @@ a.link-demo--visit {
 .section-hero {
   /* background-color: #ecf0fa; */
   /* background-color: #FFFFFF; */
+  background: radial-gradient(87.17% 87.17% at 50% 9.79%, #7AB7F8 12.63%, #C7F3F1 33.71%, #585EFD 56.7%, #121C7C 84.58%);
   padding-top: 10px;
-  padding-bottom: 94px;
+  padding-bottom: 160px;
   position: relative;
   overflow-x: hidden;
-  /* background-image: url(../img/section-hero-ornament.svg); */
+  /* background-image: url(../img/background.png); */
   background-repeat: no-repeat;
-  background-size: contain;
-  background-position: center right;
+  background-position: center center;
+  background-size: cover;
 }
 .theme-dark .section-hero {
   background-image: url(../img/section-hero-ornament-dark.svg);
@@ -1134,7 +1135,7 @@ a.link-demo--visit {
     font-size: 19px;
     line-height: 25px;
     max-width: 450px;
-    margin-bottom: 59px;
+    /* margin-bottom: 59px; */
   }
 }
 @media (min-width: 1200px) {
@@ -1214,7 +1215,7 @@ a.link-demo--visit {
 .section-description {
   padding-top: 80px;
   padding-bottom: 70px;
-  background-image: url(../img/description-block-image.svg);
+  /* background-image: url(../img/description-block-image.svg); */
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 75% -12px;
@@ -1241,6 +1242,7 @@ a.link-demo--visit {
   color: #fff;
 }
 .section-description__text {
+  font-family: 'Legwork';
   /* font-size: 15px;
   line-height: 23px;
   margin-bottom: 8px; */
@@ -1374,7 +1376,7 @@ a.link-demo--visit {
   }
 }
 .section-philosophy__list-title {
-  font-family: "Super Spicy", cursive;
+  font-family: "Legwork", cursive;
   position: relative;
   display: flex;
   align-items: center;
@@ -1570,7 +1572,7 @@ a.link-demo--visit {
   border-top: 1px solid #cdd5ea;
 }
 .section-roadmap__item-heading {
-  font-family: "Super Spicy", cursive;
+  font-family: "Legwork", cursive;
   display: flex;
   align-items: center;
   padding: 21px 0 16px 0;
@@ -1583,7 +1585,7 @@ a.link-demo--visit {
   color: #fff;
 }
 .section-roadmap__item-number {
-  font-family: "Super Spicy", cursive;
+  font-family: "Legwork", cursive;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1627,7 +1629,7 @@ a.link-demo--visit {
 }
 
 .section-gallery {
-  background: #F5F7FD;
+  /* background: #F5F7FD; */
   padding-top: 30px;
   margin-bottom: 70px;
   overflow: hidden;
@@ -1902,7 +1904,7 @@ a.link-demo--visit {
   left: 15px;
   z-index: -1;
   color: #fff;
-  font-family: "Super Spicy", cursive;
+  font-family: "Legwork", cursive;
   border-radius: 50%;
 }
 .section-quote__icon img {
@@ -1918,7 +1920,7 @@ a.link-demo--visit {
   }
 }
 .section-quote__text {
-  font-family: "Super Spicy", cursive;
+  font-family: "Legwork", cursive;
   font-size: 17px;
   line-height: 25px;
   margin-bottom: 15px;
@@ -2220,7 +2222,7 @@ a.link-demo--visit {
   border-bottom: 2px solid #917ffb;
 }
 .section-faq__item-title {
-  font-family: "Super Spicy", cursive;
+  font-family: "Legwork", cursive;
   font-weight: 400;
   font-size: 16px;
   line-height: 23px;
@@ -2376,7 +2378,7 @@ a.link-demo--visit {
   object-position: center;
 }
 .section-reviews__item-name {
-  font-family: "Super Spicy", cursive;
+  font-family: "Legwork", cursive;
   font-weight: 400;
   font-size: 16px;
   line-height: 23px;
@@ -2479,7 +2481,7 @@ a.link-demo--visit {
   object-position: center top;
 }
 .section-collection__item-title {
-  font-family: "Super Spicy", cursive;
+  font-family: "Legwork", cursive;
   font-weight: 400;
   font-size: 16px;
   line-height: 23px;
@@ -3145,4 +3147,10 @@ a.link-demo--visit {
 }
 .section-collection-v2__item-title {
   margin-bottom: 0;
+}
+
+.get_em_button{
+  border-radius: 6px;
+  background: #F5F5F5;
+  padding: 15px 21px;
 }

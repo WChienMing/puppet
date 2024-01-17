@@ -119,7 +119,7 @@
 </head>
 
 <body class="theme-light">
-    <header class="header">
+    <header class="header" style="background: linear-gradient(180deg, #050166 50%, rgba(5, 1, 102, 0.47) 100%);">
         <div class="container">
             <nav class="header__navbar navbar navbar-expand-lg">
                 <a class="navbar-brand" href="./">
@@ -153,7 +153,7 @@
                             <a class="nav-link" href="dark/index.html">Dark Version</a>
                         </li> -->
                     </ul>
-                    <div class="header__social">
+                    <!-- <div class="header__social">
                         <ul class="social__list">
                             <li class="social__item">
                                 <a class="d-flex text-decoration-none" href="#" target="_blank">
@@ -180,7 +180,7 @@
                                 </a>
                             </li>
                         </ul>
-                    </div>
+                    </div> -->
                 </div>
             </nav>
         </div>
