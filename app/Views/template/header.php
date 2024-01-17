@@ -18,36 +18,103 @@
     <link rel="icon" href="<?= base_url() ?>/img/favicon_nft.svg" />
     <title>PUPPET</title>
     <style>
-        .section {
-  position: relative; /* 设置相对定位作为后续绝对定位元素的参照 */
-  text-align: center; /* 内容居中 */
-  padding: 50px 0; /* 添加一些垂直间距 */
-}
+        /* .section {
+            position: relative;
+            text-align: center;
+            padding: 50px 0;
+        }
 
-.background-pattern {
-  position: absolute; /* 绝对定位 */
-  top: 280px; /* 置于顶部 */
-  left: 0; /* 置于左侧 */
-  width: 100%;
-  height: 100%; 
-  background-image: url('public/img/frame12.png');
-  background-repeat: repeat-x;
-  z-index: 1;
-}
+        .background-pattern {
+            position: absolute;
+            top: 280px;
+            left: 0;
+            width: 100%;
+            height: 100%; 
+            background-image: url('public/img/frame12.png');
+            background-repeat: repeat-x;
+            z-index: 1;
+        }
 
-.content {
-position: relative;
-z-index: 2;
-}
+        .content {
+            position: relative;
+            z-index: 2;
+        }
 
-.character-image img {
+        .character-image img {
+            max-width: 100%;
+            height: auto;
+            margin-top: -50px;
+            z-index: 3;
+        } */
 
-max-width: 100%;
-height: auto;
-margin-top: -50px;
+        .custom-owl .owl-item:not(.active) img {
+            opacity: 1;
+            transform: scale(0.2);
+            transition: opacity 0.3s, transform 0.3s;
+        }
+        
+        .custom-owl .section-gallery__carousel.owl-item.active .section-gallery__carousel-item img {
+            opacity: 1;
+            transform: scale(1);
+        }
 
-z-index: 3;
-}
+        .custom-owl .section-gallery__carousel.owl-item.active {
+            visibility: visible;
+        }
+
+        /* .section-gallery__carousel .owl-stage {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .section-gallery__carousel .owl-item {
+            flex: 0 0 auto;
+        }
+
+        .section-gallery__carousel .owl-item {
+            width: auto;
+            padding: 0 10px;
+        }
+        
+
+        .custom-owl .owl-item:not(.active) .section-gallery__carousel-item {
+            display: block;
+            border-radius: 25px;
+            width: 300px;
+            height: 300px;
+            overflow: hidden;
+        }
+
+        .custom-owl .section-gallery__carousel.owl-item.active .section-gallery__carousel-item img {
+            opacity: 1;
+            transform: scale(1);
+        }
+
+        .custom-owl .section-gallery__carousel.owl-item.active {
+            visibility: visible;
+        }
+
+        .custom-owl .owl-item.active {
+            width: 560px !important;
+            opacity: 1;
+        } */
+
+        .image-container {
+            position: relative;
+            text-align: center;
+            padding-bottom: 44px;
+        }
+        .nft_text{
+            position: absolute;
+            top: 416px;
+            left: 0;
+            width: 100%;
+            font-size: 20px;
+            color: #000;
+            font-weight: bold;
+            padding: 5px;
+        }
     </style>
 </head>
 

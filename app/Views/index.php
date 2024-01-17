@@ -176,16 +176,175 @@
             </div>
         </div>
     </section>
-    <div class="section">
-        <div class="background-pattern"></div>
-        <div class="content">
-            <div class="character-image">
-            <img src="public/img/nft-image-3.jpg" alt="Character" style="width: 74%; border-radius: 534px;">
+    <section class="container" style="height: 1000px;">
+        <div class="section-gallery__container container" style="justify-content: space-around;">
+            <div class="section-gallery__wrapper">
+                <div class="section-gallery__carousel owl-carousel custom-owl owl-theme item" id="custom">
+                    <a href="#carousel-next" class="section-gallery__carousel-item">
+                        <div class="image-container">
+                            <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
+                            <div class="nft_text">
+                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <p class="section-gallery__text">
+                                    Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
+                                </p>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#carousel-next" class="section-gallery__carousel-item">
+                        <div class="image-container">
+                            <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
+                            <div class="nft_text">
+                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <p class="section-gallery__text">
+                                    Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
+                                </p>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#carousel-next" class="section-gallery__carousel-item">
+                        <div class="image-container">
+                            <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
+                            <div class="nft_text">
+                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <p class="section-gallery__text">
+                                    Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
+                                </p>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#carousel-next" class="section-gallery__carousel-item">
+                        <div class="image-container">
+                            <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
+                            <div class="nft_text">
+                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <p class="section-gallery__text">
+                                    Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
+                                </p>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#carousel-next" class="section-gallery__carousel-item">
+                        <div class="image-container">
+                            <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
+                            <div class="nft_text">
+                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <p class="section-gallery__text">
+                                    Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
+                                </p>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#carousel-next" class="section-gallery__carousel-item">
+                        <div class="image-container">
+                            <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
+                            <div class="nft_text">
+                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <p class="section-gallery__text">
+                                    Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
+                                </p>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#carousel-next" class="section-gallery__carousel-item">
+                        <div class="image-container">
+                            <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
+                            <div class="nft_text">
+                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <p class="section-gallery__text">
+                                    Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
+                                </p>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#carousel-next" class="section-gallery__carousel-item">
+                        <div class="image-container">
+                            <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
+                            <div class="nft_text">
+                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <p class="section-gallery__text">
+                                    Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
+                                </p>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#carousel-next" class="section-gallery__carousel-item">
+                        <div class="image-container">
+                            <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
+                            <div class="nft_text">
+                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <p class="section-gallery__text">
+                                    Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
+                                </p>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#carousel-next" class="section-gallery__carousel-item">
+                        <div class="image-container">
+                            <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
+                            <div class="nft_text">
+                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <p class="section-gallery__text">
+                                    Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
+                                </p>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#carousel-next" class="section-gallery__carousel-item">
+                        <div class="image-container">
+                            <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
+                            <div class="nft_text">
+                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <p class="section-gallery__text">
+                                    Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
+                                </p>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#carousel-next" class="section-gallery__carousel-item">
+                        <div class="image-container">
+                            <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
+                            <div class="nft_text">
+                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <p class="section-gallery__text">
+                                    Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
+                                </p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
             </div>
-            <h3>Prime access to drops</h3>
-            <p>Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!</p>
         </div>
-    </div>
+    </section>
+    <!-- <div class="section-collection__container container"> -->
+        <!-- <div class="section-gallery__carousel owl-carousel custom-owl owl-theme">
+            <a href="#" class="section-gallery__carousel-item">
+                <img src="public/img/nft-carousel-4.jpg" alt="" />
+            </a>
+            <a href="#" class="section-gallery__carousel-item">
+                <img src="public/img/nft-carousel-4.jpg" alt="" />
+            </a>
+            <a href="#" class="section-gallery__carousel-item">
+                <img src="public/img/nft-carousel-4.jpg" alt="" />
+            </a>
+            <a href="#" class="section-gallery__carousel-item">
+                <img src="public/img/nft-carousel-4.jpg" alt="" />
+            </a>
+            <a href="#" class="section-gallery__carousel-item">
+                <img src="public/img/nft-carousel-4.jpg" alt="" />
+            </a>
+        </div> -->
+        <!-- <div class="background-pattern"></div>
+        <div class="content">
+            <div class="character-image pb-4" style="width: 80%; display: flex; justify-content: flex-end">
+                <img src="public/img/nft-image-3.jpg" alt="Character" style="width: 74%; border-radius: 534px;">
+            </div>
+            <h3 class="nft-h1">Prime access to drops</h3>
+            <p class="section-gallery__text">
+                Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
+            </p>
+        </div>
+        </div> -->
     <!-- <section class="section-perks">
         <div class="section-perks__container container">
             <ul class="section-perks__cards cards__list row">
@@ -252,3 +411,6 @@
         </div>
     </section>
 </main>
+
+
+
