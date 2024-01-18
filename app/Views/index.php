@@ -18,7 +18,16 @@
             </div>
         </div>
     </section>
-    <section style="background: #000; border-top: 6px solid #CAE9EA; border-bottom: 6px solid #8C3DFD; transform: rotate(357deg);">
+    <section style="
+    background: #000; 
+    border-top: 6px solid #CAE9EA; 
+    border-bottom: 6px solid #8C3DFD; 
+    transform: rotate(357deg);
+    padding: 10px 0;
+    position: absolute;
+    margin-top: -3.2rem;
+    width: 100%;
+    ">
         <div class="row">
             <ul class="social__list">
                 <li class="social__item">
@@ -135,7 +144,7 @@
                 </div>
             </div>
         </section>
-        <section class="section-gallery">
+        <section class="section-gallery mb-0">
             <div class="section-gallery__container container">
                 <div class="section-gallery__wrapper" style="display: flex;flex-direction: column; justify-content: center;">
                     <h2 class="section-gallery__title nft-h2" style="color: #FFF;">Still more?</h2>
@@ -145,28 +154,46 @@
                 </div>
                 <div class="section-gallery__carousel owl-carousel owl-theme">
                     <a href="#" class="section-gallery__carousel-item section-gallery__carousel-item--1">
-                        <img src="public/img/nft-carousel-1.jpg" alt="" />
+                        <img src="public/img/nft_puppet/IMG_3135.png" alt="" />
                     </a>
                     <a href="#" class="section-gallery__carousel-item section-gallery__carousel-item--2">
-                        <img src="public/img/nft-carousel-2.jpg" alt="" />
+                        <img src="public/img/nft_puppet/IMG_3146.png" alt="" />
                     </a>
                     <a href="#" class="section-gallery__carousel-item section-gallery__carousel-item--3">
-                        <img src="public/img/nft-carousel-3.jpg" alt="" />
+                        <img src="public/img/nft_puppet/IMG_3174.png" alt="" />
                     </a>
                     <a href="#" class="section-gallery__carousel-item section-gallery__carousel-item--4">
-                        <img src="public/img/nft-carousel-4.jpg" alt="" />
+                        <img src="public/img/nft_puppet/IMG_3186.png" alt="" />
                     </a>
                     <a href="#" class="section-gallery__carousel-item section-gallery__carousel-item--5">
-                        <img src="public/img/nft-carousel-5.jpg" alt="" />
+                        <img src="public/img/nft_puppet/IMG_3192.png" alt="" />
                     </a>
                     <a href="#" class="section-gallery__carousel-item section-gallery__carousel-item--6">
-                        <img src="public/img/nft-carousel-3.jpg" alt="" />
+                        <img src="public/img/nft_puppet/IMG_3201.png" alt="" />
                     </a>
                 </div>
             </div>
         </section>
     </div>
-    <section class="container" style="height: 1000px;">
+    <section style="
+    background: #000; 
+    border-top: 6px solid #147EF7; 
+    border-bottom: 6px solid #FEEA41; 
+    transform: rotate(2deg); 
+    padding: 10px 0;
+    position: absolute;
+    margin-top: -2.2rem;
+    width: 100%;
+    ">
+        <div class="row">
+            <h3 class="nft-h1" style="text-align: center;">BEHOLD: THEIR MAJESTY</h3>
+        </div>
+    </section>
+    <div style="background-image: url(public/img/background_1.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;">
+    <section class="container d-flex align-items-center" style="height: 1000px;">
         <div class="section-gallery__container container" style="justify-content: space-around;">
             <div class="section-gallery__wrapper">
                 <div class="section-gallery__carousel owl-carousel custom-owl owl-theme item" id="custom">
@@ -306,6 +333,7 @@
             </div>
         </div>
     </section>
+    </div>
     <!-- <div class="section-collection__container container"> -->
         <!-- <div class="section-gallery__carousel owl-carousel custom-owl owl-theme">
             <a href="#" class="section-gallery__carousel-item">
@@ -346,7 +374,16 @@
             </ul>
         </div>
     </section> -->
-    <section class="section-collection">
+    <section class="section-collection m-0" style="
+    background: radial-gradient(86.31% 86.32% at 50% -1.26%, #084BAF 13.5%, #28D0B3 32.98%, #060480 81.35%);
+    padding-top: 60px;
+    padding-bottom: 160px;
+    position: relative;
+    overflow-x: hidden;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    ">
         <div class="section-collection__container container">
             <h2 class="section-collection__title nft-h2">The artsy folks behind it</h2>
             <div class="section-collection__wrapper">

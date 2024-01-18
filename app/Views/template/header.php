@@ -106,13 +106,13 @@
             padding-bottom: 44px;
         }
         .nft_text{
+            font-family: "Legwork", cursive;
             position: absolute;
-            top: 416px;
+            top: 480px;
             left: 0;
             width: 100%;
             font-size: 20px;
-            color: #000;
-            font-weight: bold;
+            color: #fff;
             padding: 5px;
         }
     </style>

@@ -291,7 +291,7 @@ a.link-demo--visit {
 .nft-h1{
   margin: 0;
   padding: 0;
-  color: #0F83F3;
+  color: #fff;
 }
 
 /* .linear{
@@ -1675,7 +1675,7 @@ a.link-demo--visit {
 }
 @media (min-width: 768px) {
   .section-gallery__text {
-    font-size: 19px;
+    font-size: 24px;
     line-height: 25px;
   }
 }
