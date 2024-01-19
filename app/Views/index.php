@@ -1,16 +1,12 @@
 <main class="main m-0 p-0">
     <section class="section-hero">
         <div class="section-hero__container container" style="position: relative; text-align: center;">
-            <img src="public/img/nft1.png" alt="" style="width: 60%;">
+            <img src="public/img/nft1.png" alt="" class="nft1_img">
             <div class="section-hero__wrapper justify-content-center">
-                <div class="section-hero__content" style="position: absolute;
-                    top: 88%;
-                    left: 50%;
-                    transform: translate(-50%, -50%);
-                    font-size: 2em;
-                    z-index: 2; color: #fff !important;">
-                    <h1 class="section-hero__title nft-h1 animate__animated animate__fadeInLeft d-flex justify-content-center" style="color: #fff !important; white-space: nowrap;">The New Vaporvawe Freakzer NFT Collection</h1>
-                    <div class="section-hero__text animate__animated animate__fadeInLeft animate__delay-1s pb-0 d-flex justify-content-center" style="white-space: nowrap;">
+                <div class="section-hero__content p-0">
+                    <h1 class="section-hero__title nft-h1 animate__animated animate__fadeInLeft d-flex justify-content-center">
+                    The New Vaporvawe Freakzer NFT Collection</h1>
+                    <div class="section-hero__text animate__animated animate__fadeInLeft animate__delay-1s pb-0 d-flex justify-content-center">
                     "Step into the Extraordinary: Puppet NFTs – Where Ancient Tales Meet Digital Wonders!"
                     </div>
                     <button class="get_em_button">GET EM</button>
@@ -377,7 +373,7 @@
     <section class="section-collection m-0" style="
     background: radial-gradient(86.31% 86.32% at 50% -1.26%, #084BAF 13.5%, #28D0B3 32.98%, #060480 81.35%);
     padding-top: 60px;
-    padding-bottom: 160px;
+    padding-bottom: 80px;
     position: relative;
     overflow-x: hidden;
     background-repeat: no-repeat;
@@ -385,7 +381,7 @@
     background-size: cover;
     ">
         <div class="section-collection__container container">
-            <h2 class="section-collection__title nft-h2">The artsy folks behind it</h2>
+            <h2 class="section-collection__title nft-h2">THE PUPPETS</h2>
             <div class="section-collection__wrapper">
                 <div class="section-collection__carousel owl-carousel owl-theme">
                     <a href="#" class="section-collection__item">

@@ -306,7 +306,7 @@ a.link-demo--visit {
 .nft-h4 {
   margin: 0;
   padding: 0;
-  color: #222;
+  color: #fff;
 }
 
 
@@ -323,11 +323,20 @@ a.link-demo--visit {
   font-family: "Legwork", cursive;
   font-weight: 400;
   font-size: 35px;
-  line-height: 41px;
+  /* line-height: 41px; */
   margin-bottom: 20px;
   text-transform: uppercase;
   letter-spacing: 0.02em;
 }
+
+@media (min-width: 992px) {
+  .nft-h1 {
+    font-size: 49px;
+    line-height: 56px;
+  }
+}
+
+
 @media (min-width: 992px) {
   .nft-h1 {
     font-size: 49px;
@@ -1100,7 +1109,18 @@ a.link-demo--visit {
   flex-shrink: 0;
   max-width: 460px;
   padding-top: 40px;
+
+  position: absolute;
+  top: 94%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2em;
+  z-index: 2; color: #fff !important;
 }
+
+
+
+
 @media (min-width: 992px) {
   .section-hero__content {
     max-width: 520px;
@@ -1110,8 +1130,19 @@ a.link-demo--visit {
 @media (min-width: 1200px) {
   .section-hero__content {
     max-width: 726px;
+    top: 82%;
   }
 }
+
+@media (min-width: 1024px) {
+  .section-hero__content {
+    top: 84%;
+  }
+}
+
+
+
+
 .section-hero__title {
   margin-bottom: 5px;
 }
@@ -1134,15 +1165,15 @@ a.link-demo--visit {
   .section-hero__text {
     font-size: 19px;
     line-height: 25px;
-    max-width: 450px;
+    /* max-width: 450px; */
     /* margin-bottom: 59px; */
   }
 }
-@media (min-width: 1200px) {
+/* @media (min-width: 1200px) {
   .section-hero__text {
     max-width: 588px;
   }
-}
+} */
 .theme-dark .section-hero__text {
   color: #fff;
 }
@@ -2458,7 +2489,7 @@ a.link-demo--visit {
   height: 100%;
   padding: 45px 25px;
   border-radius: 25px;
-  background-color: #ECF0FA;
+  background-color: #5552FE;
   text-decoration: none !important;
 }
 .section-collection__item:visited {
@@ -2487,7 +2518,7 @@ a.link-demo--visit {
   line-height: 23px;
   text-align: center;
   margin-bottom: 10px;
-  color: #222;
+  color: #fff;
 }
 .theme-dark .section-collection__item-title {
   color: #fff;
@@ -2495,7 +2526,7 @@ a.link-demo--visit {
 .section-collection__item-text {
   text-align: center;
   margin-bottom: 0;
-  color: #222;
+  color: #fff;
 }
 .theme-dark .section-collection__item-text {
   color: #fff;
@@ -3153,4 +3184,69 @@ a.link-demo--visit {
   border-radius: 6px;
   background: #F5F5F5;
   padding: 15px 21px;
+}
+
+
+
+
+
+
+.section-hero__content {
+  text-align: center;
+}
+
+.section-hero__title,
+.section-hero__text {
+  white-space: nowrap;
+}
+
+.nft1_img{
+  width: 60%;
+}
+
+
+
+@media (max-width: 768px) {
+  .section-hero__text {
+    font-size: 12px; 
+    white-space: normal; 
+    padding: 0 10px; 
+  }
+
+  .section-hero__title {
+    font-size: smaller; 
+    white-space: nowrap; 
+    padding: 0 10px;
+  }
+}
+
+/* @media (max-width: 580px) {
+  .section-hero__content {
+    top: 102%;
+  }
+  .section-hero{
+    padding-bottom: 180px;
+  }
+  
+} */
+
+
+@media (max-width: 576px) {
+  
+  .section-hero__title {
+    font-size: 16px;
+    white-space: nowrap;
+  }
+
+  .section-hero__text {
+    font-size: 14px;
+  }
+
+  .section-hero{
+    padding-bottom: 180px;
+  }
+  
+  .nft1_img{
+    width: 100%;
+  }
 }
