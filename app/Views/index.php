@@ -9,7 +9,7 @@
                     <div class="section-hero__text animate__animated animate__fadeInLeft animate__delay-1s pb-0 d-flex justify-content-center">
                     "Step into the Extraordinary: Puppet NFTs – Where Ancient Tales Meet Digital Wonders!"
                     </div>
-                    <button class="get_em_button">GET EM</button>
+                    <button class="get_em_button">GET EM !</button>
                 </div>
             </div>
         </div>
@@ -140,7 +140,7 @@
                 </div>
             </div>
         </section>
-        <section class="section-gallery mb-0">
+        <section class="section-description">
             <div class="section-gallery__container container">
                 <div class="section-gallery__wrapper" style="display: flex;flex-direction: column; justify-content: center;">
                     <h2 class="section-gallery__title nft-h2" style="color: #FFF;">Still more?</h2>
@@ -197,7 +197,7 @@
                         <div class="image-container">
                             <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
                             <div class="nft_text">
-                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <h3 class="nft-h1 text-h1">Prime access to drops</h3>
                                 <p class="section-gallery__text">
                                     Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
                                 </p>
@@ -208,7 +208,7 @@
                         <div class="image-container">
                             <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
                             <div class="nft_text">
-                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <h3 class="nft-h1 text-h1">Prime access to drops</h3>
                                 <p class="section-gallery__text">
                                     Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
                                 </p>
@@ -219,7 +219,7 @@
                         <div class="image-container">
                             <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
                             <div class="nft_text">
-                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <h3 class="nft-h1 text-h1">Prime access to drops</h3>
                                 <p class="section-gallery__text">
                                     Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
                                 </p>
@@ -230,7 +230,7 @@
                         <div class="image-container">
                             <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
                             <div class="nft_text">
-                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <h3 class="nft-h1 text-h1">Prime access to drops</h3>
                                 <p class="section-gallery__text">
                                     Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
                                 </p>
@@ -241,7 +241,7 @@
                         <div class="image-container">
                             <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
                             <div class="nft_text">
-                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <h3 class="nft-h1 text-h1">Prime access to drops</h3>
                                 <p class="section-gallery__text">
                                     Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
                                 </p>
@@ -252,7 +252,7 @@
                         <div class="image-container">
                             <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
                             <div class="nft_text">
-                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <h3 class="nft-h1 text-h1">Prime access to drops</h3>
                                 <p class="section-gallery__text">
                                     Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
                                 </p>
@@ -263,7 +263,7 @@
                         <div class="image-container">
                             <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
                             <div class="nft_text">
-                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <h3 class="nft-h1 text-h1">Prime access to drops</h3>
                                 <p class="section-gallery__text">
                                     Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
                                 </p>
@@ -274,7 +274,7 @@
                         <div class="image-container">
                             <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
                             <div class="nft_text">
-                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <h3 class="nft-h1 text-h1">Prime access to drops</h3>
                                 <p class="section-gallery__text">
                                     Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
                                 </p>
@@ -285,7 +285,7 @@
                         <div class="image-container">
                             <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
                             <div class="nft_text">
-                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <h3 class="nft-h1 text-h1">Prime access to drops</h3>
                                 <p class="section-gallery__text">
                                     Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
                                 </p>
@@ -296,7 +296,7 @@
                         <div class="image-container">
                             <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
                             <div class="nft_text">
-                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <h3 class="nft-h1 text-h1">Prime access to drops</h3>
                                 <p class="section-gallery__text">
                                     Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
                                 </p>
@@ -307,7 +307,7 @@
                         <div class="image-container">
                             <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
                             <div class="nft_text">
-                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <h3 class="nft-h1 text-h1">Prime access to drops</h3>
                                 <p class="section-gallery__text">
                                     Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
                                 </p>
@@ -318,7 +318,7 @@
                         <div class="image-container">
                             <img src="public/img/test.png" alt="" data-active-src="public/img/test.png"/>
                             <div class="nft_text">
-                                <h3 class="nft-h1">Prime access to drops</h3>
+                                <h3 class="nft-h1 text-h1">Prime access to drops</h3>
                                 <p class="section-gallery__text">
                                     Be the first to grab the top NFTs before anyone else can even move their finger - lots of hot items there!
                                 </p>

@@ -100,21 +100,6 @@
             opacity: 1;
         } */
 
-        .image-container {
-            position: relative;
-            text-align: center;
-            padding-bottom: 44px;
-        }
-        .nft_text{
-            font-family: "Legwork", cursive;
-            position: absolute;
-            top: 480px;
-            left: 0;
-            width: 100%;
-            font-size: 20px;
-            color: #fff;
-            padding: 5px;
-        }
     </style>
 </head>
 
