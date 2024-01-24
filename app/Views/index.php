@@ -5,7 +5,7 @@
             <div class="section-hero__wrapper justify-content-center">
                 <div class="section-hero__content p-0">
                     <h1 class="section-hero__title nft-h1 animate__animated animate__fadeInLeft d-flex justify-content-center">
-                    The New Vaporvawe Freakzer NFT Collection</h1>
+                    The New Puppet NFT Collection</h1>
                     <div class="section-hero__text animate__animated animate__fadeInLeft animate__delay-1s pb-0 d-flex justify-content-center">
                     "Step into the Extraordinary: Puppet NFTs – Where Ancient Tales Meet Digital Wonders!"
                     </div>
@@ -14,16 +14,7 @@
             </div>
         </div>
     </section>
-    <section style="
-    background: #000; 
-    border-top: 6px solid #CAE9EA; 
-    border-bottom: 6px solid #8C3DFD; 
-    transform: rotate(357deg);
-    padding: 10px 0;
-    position: absolute;
-    margin-top: -3.2rem;
-    width: 100%;
-    ">
+    <section class="section_bar_top">
         <div class="row">
             <ul class="social__list">
                 <li class="social__item">
@@ -120,10 +111,7 @@
             </ul>
         </div>
     </section> -->
-    <div style="background-image: url(public/img/background.png);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;">
+    <div class="description_background">
         <section class="section-description">
             <div class="section-description__container container">
                 <div class="section-description__wrapper row">
@@ -171,24 +159,12 @@
             </div>
         </section>
     </div>
-    <section style="
-    background: #000; 
-    border-top: 6px solid #147EF7; 
-    border-bottom: 6px solid #FEEA41; 
-    transform: rotate(2deg); 
-    padding: 10px 0;
-    position: absolute;
-    margin-top: -2.2rem;
-    width: 100%;
-    ">
+    <section class="section_bar_bottom">
         <div class="row">
             <h3 class="nft-h1" style="text-align: center;">BEHOLD: THEIR MAJESTY</h3>
         </div>
     </section>
-    <div style="background-image: url(public/img/background_1.png);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;">
+    <div class="container_background">
     <section class="container d-flex align-items-center" style="height: 1000px;">
         <div class="section-gallery__container container" style="justify-content: space-around;">
             <div class="section-gallery__wrapper">
@@ -370,65 +346,46 @@
             </ul>
         </div>
     </section> -->
-    <section class="section-collection m-0" style="
-    background: radial-gradient(86.31% 86.32% at 50% -1.26%, #084BAF 13.5%, #28D0B3 32.98%, #060480 81.35%);
-    padding-top: 60px;
-    padding-bottom: 80px;
-    position: relative;
-    overflow-x: hidden;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    ">
+    <section class="section-collection m-0">
         <div class="section-collection__container container">
             <h2 class="section-collection__title nft-h2">THE PUPPETS</h2>
             <div class="section-collection__wrapper">
                 <div class="section-collection__carousel owl-carousel owl-theme">
                     <a href="#" class="section-collection__item">
                         <div class="section-collection__item-image">
-                            <img src="public/img/nft-image-3.jpg" alt="" />
+                            <img src="public/img/nft_puppet/IMG_3135.png" alt="" />
                         </div>
                         <h3 class="section-collection__item-title">Silky</h3>
                         <p class="section-collection__item-text">The most creative designer in the world, according to us.</p>
                     </a>
                     <a href="#" class="section-collection__item">
                         <div class="section-collection__item-image">
-                            <img src="public/img/nft-image-1.jpg" alt="" />
+                            <img src="public/img/nft_puppet/IMG_3146.png" alt="" />
                         </div>
                         <h3 class="section-collection__item-title">Glovvs</h3>
                         <p class="section-collection__item-text">The artist who makes it all happen - behold and feel the chills!</p>
                     </a>
                     <a href="#" class="section-collection__item">
                         <div class="section-collection__item-image">
-                            <img src="public/img/nft-image-4.jpg" alt="" />
+                            <img src="public/img/nft_puppet/IMG_3174.png" alt="" />
                         </div>
                         <h3 class="section-collection__item-title">Neenja</h3>
                         <p class="section-collection__item-text">Our dear and beloved geek working on everything blockchain.</p>
                     </a>
                     <a href="#" class="section-collection__item">
                         <div class="section-collection__item-image">
-                            <img src="public/img/nft-image-2.jpg" alt="" />
+                            <img src="public/img/nft_puppet/IMG_3186.png" alt="" />
                         </div>
                         <h3 class="section-collection__item-title">Skibbr</h3>
                         <p class="section-collection__item-text">The brainstormer, mindmapper, and let’s-make-a-spreadsheet-for-it nerd.</p>
                     </a>
                     <a href="#" class="section-collection__item">
                         <div class="section-collection__item-image">
-                            <img src="public/img/nft-image-1.jpg" alt="" />
+                            <img src="public/img/nft_puppet/IMG_3192.png" alt="" />
                         </div>
                         <h3 class="section-collection__item-title">Glovvs</h3>
                         <p class="section-collection__item-text">The artist who makes it all happen - behold and feel the chills!</p>
                     </a>
-                </div>
-                <div class="section-collection__prev carousel__prev">
-                    <svg>
-                        <use xlink:href="#carousel-prev"></use>
-                    </svg>
-                </div>
-                <div class="section-collection__next carousel__next">
-                    <svg>
-                        <use xlink:href="#carousel-next"></use>
-                    </svg>
                 </div>
             </div>
         </div>

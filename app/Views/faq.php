@@ -7,26 +7,26 @@
                     <div class="section-membership__image">
                         <div class="section-membership__image-wrapper">
                             <div class="section-membership__image-item">
-                                <img src="public/img/nft-image-1.jpg" alt="" />
+                                <img src="public/img/nft_puppet/IMG_3135.png" alt="" />
                             </div>
                             <div class="section-membership__image-item">
-                                <img src="public/img/nft-image-3.jpg" alt="" />
-                            </div>
-                        </div>
-                        <div class="section-membership__image-wrapper">
-                            <div class="section-membership__image-item">
-                                <img src="public/img/nft-image-2.jpg" alt="" />
-                            </div>
-                            <div class="section-membership__image-item">
-                                <img src="public/img/nft-image-4.jpg" alt="" />
+                                <img src="public/img/nft_puppet/IMG_3146.png" alt="" />
                             </div>
                         </div>
                         <div class="section-membership__image-wrapper">
                             <div class="section-membership__image-item">
-                                <img src="public/img/nft-image-1.jpg" alt="" />
+                                <img src="public/img/nft_puppet/IMG_3174.png" alt="" />
                             </div>
                             <div class="section-membership__image-item">
-                                <img src="public/img/nft-image-3.jpg" alt="" />
+                                <img src="public/img/nft_puppet/IMG_3186.png" alt="" />
+                            </div>
+                        </div>
+                        <div class="section-membership__image-wrapper">
+                            <div class="section-membership__image-item">
+                                <img src="public/img/nft_puppet/IMG_3192.png" alt="" />
+                            </div>
+                            <div class="section-membership__image-item">
+                                <img src="public/img/nft_puppet/IMG_3201.png" alt="" />
                             </div>
                         </div>
                     </div>
@@ -34,7 +34,7 @@
                 <div class="section-membership__column col-md-6 ps-lg-2">
                     <div class="section-faq__container section-faq__container--thin container">
                         <div class="section-faq__wrapper section-faq__wrapper--thin">
-                            <h2 class="section-faq__title nft-h2 wow animate__animated animate__slideInDown">Wait, I need to know something…</h2>
+                            <h2 class="section-faq__title nft-h2 wow animate__animated animate__slideInDown" style="color: #000;">Wait, I need to know something…</h2>
                             <ul class="section-faq__list list-unstyled">
                                 <li class="section-faq__item wow animate__animated animate__fadeInUp" data-wow-delay="0.1s">
                                     <div class="section-faq__item-heading">
