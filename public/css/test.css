@@ -1,0 +1,151 @@
+
+.image-container {
+  position: relative;
+  text-align: center;
+  padding-bottom: 44px;
+}
+
+.container_background {
+  background-image: url(../img/background_1.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.nft_text {
+  font-family: "Legwork", cursive;
+  position: absolute;
+  top: 52vh;
+  left: 0;
+  width: 100%;
+  font-size: 1vw;
+  color: #fff;
+  padding: 5px;
+}
+
+
+@media (max-width: 768px) {
+  .text-h1 {
+    font-size: 5vw;
+  }
+
+  .section-gallery__text {
+    font-size: 2vw;
+  }
+}
+
+/* .image-container {
+  position: relative;
+  text-align: center;
+  padding-bottom: 44px;
+}
+
+.container_background{
+  background-image: url(../img/background_1.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.nft_text {
+  font-family: "Legwork", cursive;
+  position: absolute;
+  top: 480px;
+  left: 0;
+  width: 100%;
+  font-size: 20px;
+  color: #fff;
+  padding: 5px;
+} */
+
+
+@media (min-width: 600px) {
+  .nft_text {
+      top: 460px;
+  }
+}
+
+
+@media (max-width: 570px) {
+  .nft_text {
+      top: 416px;
+  }
+}
+
+
+@media (max-width: 533px) {
+  .nft_text {
+      top: 380px;
+  }
+
+  /* .section-gallery__text {
+      font-size: 12px;
+      margin-bottom: 51px;
+  } */
+  
+}
+
+
+@media (max-width: 490px) {
+  .nft_text {
+      top: 342px;
+  }
+}
+
+
+@media (max-width: 433px) {
+  .nft_text {
+      top: 300px;
+  }
+}
+
+
+@media (max-width: 397px) {
+  .nft_text {
+      top: 280px;
+      
+  }
+
+  /* .text-h1 {
+      font-size: 24px;
+      margin-bottom: 8px
+  }
+
+  .section-gallery__text {
+      font-size: 10px;
+  } */
+}
+
+
+@media (max-width: 352px) {
+  /* .text-h1 {
+      font-size: 20px;
+      margin-bottom: 8px
+  } */
+
+  .nft_text {
+      top: 246px;
+  }
+}
+
+@media (max-width: 325px) {
+  /* .text-h1 {
+      font-size: 18px;
+      margin-bottom: 8px
+  } */
+
+  .nft_text {
+      top: 206px;
+  }
+}
+
+@media (max-width: 300px) {
+  /* .text-h1 {
+      font-size: 14px;
+      margin-bottom: 4px
+  } */
+
+  .nft_text {
+      top: 190px;
+  }
+}
