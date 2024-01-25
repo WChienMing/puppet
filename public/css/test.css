@@ -149,3 +149,82 @@
       top: 190px;
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.image-container {
+  position: relative;
+  text-align: center;
+  padding-bottom: 44px;
+}
+
+.container_background{
+  background-image: url(../img/background_1.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.nft_text {
+  font-family: "Legwork", cursive;
+  position: absolute;
+  top: calc(50vh - 50px); /* 使用 calc() 来计算 top 值 */
+  left: 0;
+  width: 100%;
+  font-size: calc(0.5vw + 1em); /* 结合 vw 和 em 单位，确保字体不会太小 */
+  color: #fff;
+  padding: 5px;
+}
+
+/* 最小字体大小 */
+.text-h1 {
+  font-size: calc(0.5vw + 1em);
+}
+
+.section-gallery__text {
+  font-size: calc(0.5vw + 0.5em);
+}
+
+/* 简化媒体查询 */
+@media (max-width: 768px) {
+  .nft_text {
+    top: calc(42vh - -34px); /* 微调小屏幕的 top 值 */
+  }
+
+  .text-h1 {
+    font-size: calc(2.5vw + 1em); /* 小屏幕增大字体大小 */
+  }
+
+  .section-gallery__text {
+    font-size: calc(1.5vw + 0.5em); /* 小屏幕增大字体大小 */
+  }
+}
+
+@media (max-width: 480px) {
+  .nft_text {
+    top: calc(40vh - 30px); /* 微调更小屏幕的 top 值 */
+  }
+}
+
+@media (max-width: 320px) {
+  .nft_text {
+    top: calc(35vh - 20px); /* 针对非常小的屏幕微调 top 值 */
+  }
+}
+
+
+
+
