@@ -31,4 +31,11 @@ class Home extends BaseController
             . view('about')
             . view('template/footer');
     }
+
+    public function gallery()
+    {
+        return view('template/header')
+            . view('gallery')
+            . view('template/footer');
+    }
 }

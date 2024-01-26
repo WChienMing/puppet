@@ -195,10 +195,11 @@ body.theme-dark {
   margin-bottom: 12px;
 }
 .figure-caption {
-  font-size: 13px;
+  font-size: 18px;
+  font-family: "Legwork", cursive;
   line-height: 18px;
   opacity: 0.65;
-  color: #222;
+  color: #000;
 }
 .theme-dark .figure-caption {
   color: #fff;
@@ -3307,15 +3308,37 @@ a.link-demo--visit {
   background-size: cover;
 }
 
+.title-search{
+  display: flex;
+  justify-content: space-between;
+}
+
+.title-search .form-control{
+  border-radius: 2rem;
+  border: 0.25rem solid #b3b3b3;
+  box-shadow: 0 0.5rem 1rem rgba(0,0,0,.15);
+}
+
+.title-search .form-control{
+  display: block;
+  width: 100%;
+  height: calc(1.5em + 1.875rem + 4px);
+  padding: 0.9375rem 1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #333;
+  background-color: #fff;
+  background-clip: padding-box;
+}
+
 
 
 
 /* carousel */
-
 .image-container {
   position: relative;
-  text-align: center;
-  padding-bottom: 44px;
+  text-align: center
 }
 
 .container_background{
@@ -3325,53 +3348,149 @@ a.link-demo--visit {
   background-size: cover;
 }
 
+
 .nft_text {
-  font-family: "Legwork", cursive;
   position: absolute;
-  top: calc(50vh - 50px); /* 使用 calc() 来计算 top 值 */
-  left: 0;
-  width: 100%;
-  font-size: calc(0.5vw + 1em); /* 结合 vw 和 em 单位，确保字体不会太小 */
+  bottom: -5%;
+  left: 50%;
+  transform: translateX(-50%);
   color: #fff;
-  padding: 5px;
+  text-align: center;
+  width: 100%;
 }
 
-/* 最小字体大小 */
-.text-h1 {
-  font-size: calc(0.5vw + 1em);
-}
 
-.section-gallery__text {
-  font-size: calc(0.5vw + 0.5em);
-}
 
-/* 简化媒体查询 */
+
+
 @media (max-width: 768px) {
   .nft_text {
-    top: calc(42vh - -34px); /* 微调小屏幕的 top 值 */
-  }
-
-  .text-h1 {
-    font-size: calc(2.5vw + 1em); /* 小屏幕增大字体大小 */
-  }
-
-  .section-gallery__text {
-    font-size: calc(1.5vw + 0.5em); /* 小屏幕增大字体大小 */
+    bottom: -9%;
   }
 }
 
 @media (max-width: 480px) {
   .nft_text {
-    top: calc(40vh - 30px); /* 微调更小屏幕的 top 值 */
+    bottom: -10%;
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 460px) {
   .nft_text {
-    top: calc(35vh - 20px); /* 针对非常小的屏幕微调 top 值 */
+    bottom: -22%;
   }
+
+  .owl-item{
+    height: 460px !important;
+  }
+  
+}
+
+@media (max-width: 400px) {
+  .nft_text {
+    bottom: -32%;
+  }
+  .text-h1{
+    font-size: 24px;
+    white-space: nowrap;
+  }
+  .owl-item{
+    height: 400px !important;
+  }
+  
+}
+
+@media (max-width: 340px) {
+  .nft_text {
+    bottom: -50%;
+  }
+  .text-h1{
+    font-size: 24px;
+    /* white-space: nowrap; */
+  }
+  .owl-item{
+    height: 400px !important;
+  }
+  
+}
+
+
+@media (max-width: 300px) {
+  .nft_text {
+    bottom: -70%;
+  }
+  .text-h1{
+    font-size: 24px;
+    white-space: normal;
+  }
+  .owl-item{
+    height: 400px !important;
+  }
+  
 }
 
 
 
 
+
+.accordion-item {
+  border: 0px;
+}
+
+.accordion-body .list-unstyled{
+  background-color: #fafafa;
+  padding: 8px;
+  border-radius: 6px;
+}
+
+.accordion {
+  background: #f8f9fa;
+  border-radius: 0.25rem;
+  margin-bottom: 1rem;
+}
+
+.accordion-main{
+  font-family: "Legwork", cursive;
+  font-size: 26px !important;
+}
+
+.accordion-button {
+  background-color: #ffffff;
+  color: #000;
+  font-weight: bold;
+}
+
+.accordion-button:not(.collapsed) {
+  color: #000;
+  background-color: #ffffff;
+  box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.125);
+}
+
+
+.accordion-body {
+  background-color: #ffffff;
+}
+
+
+.form-check-input {
+  margin-top: 0.3rem;
+  margin-left: 0.3rem;
+}
+
+
+.list-unstyled {
+  padding-left: 1rem;
+}
+
+
+.list-unstyled li {
+  margin-bottom: 0.5rem;
+}
+
+
+@media (max-width: 768px) {
+  .accordion-button {
+    padding-left: 1rem;
+    font-size: 0.9rem;
+  }
+}

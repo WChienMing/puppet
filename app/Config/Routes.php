@@ -11,4 +11,5 @@ $routes->group('/', ['namespace' => 'App\Controllers'], function($routes){
     $routes->get('/roadmap', 'Home::roadmap');
     $routes->get('/faq', 'Home::faq');
     $routes->get('/about', 'Home::about');
+    $routes->get('/gallery', 'Home::gallery');
 });
