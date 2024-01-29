@@ -46,8 +46,9 @@
                                         </span>
                                     </div>
                                     <div class="section-faq__item-content">
-                                        <p>NFTs are unique by default. As the name suggests, they are non-fungible, i.e. one NFT is not equal to another and no two NFTs are the same.</p>
-                                        <p>However, there is a problem of how to verify the authenticity of the NFT and the artwork behind it. Fraudsters often sell NFTs without artists' consent.</p>
+                                        <p>
+                                        NFTs, or Non-Fungible Tokens, are unique digital assets verified using blockchain technology, representing ownership or proof of authenticity of a specific item or piece of content, such as artwork, music, videos, or collectibles. Unlike cryptocurrencies, each NFT has a distinct value and cannot be exchanged on a one-to-one basis.
+                                        </p>
                                     </div>
                                 </li>
                                 <li class="section-faq__item wow animate__animated animate__fadeInUp" data-wow-delay="0.2s">
@@ -60,8 +61,27 @@
                                         </span>
                                     </div>
                                     <div class="section-faq__item-content">
-                                        <p>NFTs are unique by default. As the name suggests, they are non-fungible, i.e. one NFT is not equal to another and no two NFTs are the same.</p>
-                                        <p>However, there is a problem of how to verify the authenticity of the NFT and the artwork behind it. Fraudsters often sell NFTs without artists' consent.</p>
+                                        <p>
+                                        To acquire an NFT, you can:
+                                        </p>
+                                        <p>
+                                        Choose a digital wallet that supports NFTs and cryptocurrency.
+                                        </p>
+                                        <p>
+                                        Purchase some cryptocurrency, typically Ethereum, as it's commonly used for NFT transactions.
+                                        </p>
+                                        <p>
+                                        Select an NFT marketplace.
+                                        </p>
+                                        <p>
+                                        Browse the marketplace for NFTs you're interested in.
+                                        </p>
+                                        <p>
+                                        Place a bid or buy the NFT at the asking price.
+                                        </p>
+                                        <p>
+                                        Complete the transaction to transfer the NFT to your digital wallet.
+                                        </p>
                                     </div>
                                 </li>
                                 <li class="section-faq__item wow animate__animated animate__fadeInUp" data-wow-delay="0.3s">
@@ -88,8 +108,7 @@
                                         </span>
                                     </div>
                                     <div class="section-faq__item-content">
-                                        <p>NFTs are unique by default. As the name suggests, they are non-fungible, i.e. one NFT is not equal to another and no two NFTs are the same.</p>
-                                        <p>However, there is a problem of how to verify the authenticity of the NFT and the artwork behind it. Fraudsters often sell NFTs without artists' consent.</p>
+                                        <p>Yes, you can resell your NFT on various NFT marketplaces, subject to the terms of the platform and any royalties to the original creator.</p>
                                     </div>
                                 </li>
                             </ul>

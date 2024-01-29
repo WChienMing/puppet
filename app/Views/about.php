@@ -6,7 +6,9 @@
                     <h1 class="section-about-hero__title nft-h1 wow animate__animated animate__slideInUp">About project</h1>
                 </div>
                 <div class="col-md-6 section-about-hero__description wow animate__animated animate__fadeIn">
-                    Check out our ambitious plans: as we go, we’ll tick the points until we’re there. What next? More daring exploits! <br />Meet the notorious Freakzers - the creatures from your dreams and nightmares, and quite possibly from under your bed… Don’t look down!
+                    Explore our grand vision: We'll achieve each milestone, one by one, until we reach our ultimate goal. What's next? More thrilling adventures await you!
+                    <br>
+                    Discover the wonderful world of Puppet—these unique creatures spring from your imagination and might just be hiding around the corner. They bring peculiar delights, not fears. Let's unveil their mysteries together and enjoy the excitement of discovery!
                 </div>
             </div>
             <div class="section-about-hero__image">
@@ -59,7 +61,7 @@
                     </div>
                     <h2 class="section-color-block__title nft-h2">Where it all began</h2>
                     <div class="section-color-block__text">
-                        One day, in March of the year 2351, Freakzers will crawl from underneath the city to show their true power. And district by district, people will embrace the wave of the psychedelic vibe that these neon creatures spread all over the place.
+                    One day, the portal to the Muppet World will open deep in the city, and the Muppets from other worlds will show their true power. District by district, people will embrace the fantasy atmosphere brought by the Muppets, these magical creatures spreading their unique charm to every corner.
                     </div>
                 </div>
                 <div class="section-color-block__cards col-md-6 col-lg-5">
@@ -102,7 +104,7 @@
             </div>
         </div>
     </section>
-    <section class="section-cards-carousel m-0 p-5">
+    <!-- <section class="section-cards-carousel m-0 p-5">
         <div class="section-cards-carousel__container container">
             <div class="section-cards-carousel__wrapper">
                 <div class="section-cards-carousel__list owl-carousel">
@@ -123,26 +125,26 @@
                 </div>
             </div>
         </div>
-    </section>
-    <section class="section-title-text m-0">
+    </section> -->
+    <section class="section-title-text m-0 pt-4">
         <div class="section-title-text__container container">
             <img src="public/img/story-element.svg" alt="" class="section-title-text__element" />
             <div class="section-title-text__item">
-                <h2 class="section-title-text__title nft-h3" style="color: #000;">NFTs bought at pre-launch</h2>
+                <h2 class="section-title-text__title nft-h3" style="color: #000;">The Prelude of Puppet Otherworld</h2>
                 <div class="section-title-text__text">
-                    The last collection we’ve launched was sold out on day 5 – and the start was quite impressive, too. These items are not to be looked down upon: this is something you’ll boast about – or profitably resell. Our incredibly productive artists and designers have embodied all their
-                    inspiration in these NFTs.
+                Our latest Puppet Otherworld series astounded everyone, selling out within just five days of its launch. These extraordinary NFTs are not just a sales success but a perfect representation of a limitless fantasy world. Each piece encapsulates the mystery and magic of the Puppet Otherworld, offering owners an immersive and wondrous experience.
                 </div>
             </div>
             <div class="section-title-text__item">
-                <h2 class="section-title-text__title nft-h3" style="color: #000;">Highest <br />sale</h2>
-                <div class="section-title-text__text">These items are not to be looked down upon: this is something you’ll boast about – or profitably resell. The last collection we’ve launched was sold out on day 5 – and the start was quite impressive, too.</div>
+                <h2 class="section-title-text__title nft-h3" style="color: #000;">Record-Breaking Value</h2>
+                <div class="section-title-text__text">
+                The Puppet Otherworld series is esteemed not only for its artistic value but also for its uniqueness, becoming a source of pride for collectors. These pieces have made a significant impact in the market, with their highest sale price reflecting their exceptional worth and the discerning eye of their owners.
+                </div>
             </div>
             <div class="section-title-text__item">
-                <h2 class="section-title-text__title nft-h3" style="color: #000;">Top-notch pieces of art</h2>
+                <h2 class="section-title-text__title nft-h3" style="color: #000;">A Fusion of Art and Inspiration</h2>
                 <div class="section-title-text__text">
-                    Our incredibly productive artists and designers have embodied all their inspiration in these NFTs. The last collection we’ve launched was sold out on day 5 – and the start was quite impressive, too. These items are not to be looked down upon: this is something you’ll boast about – or
-                    profitably resell.
+                The Puppet Otherworld series represents the pinnacle of our team's creativity. Our artists and designers have poured deep understanding and boundless inspiration into each NFT, making them true masterpieces of art. For collectors seeking unique and high-quality artistic works, these NFTs are rare treasures.
                 </div>
             </div>
         </div>
