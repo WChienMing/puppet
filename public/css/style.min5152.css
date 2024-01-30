@@ -3311,6 +3311,7 @@ a.link-demo--visit {
 .title-search{
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .title-search .form-control{
