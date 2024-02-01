@@ -1,10 +1,22 @@
 <main class="main m-0 py-5">
     <section id="roadmap" class="section-roadmap">
-        <div class="section-roadmap__image"></div>
+        <!-- <div class="section-roadmap__image"></div> -->
         <div class="section-roadmap__container container">
             <div class="section-roadmap__wrapper">
-                <h2 class="section-roadmap__title nft-h2 wow animate__animated animate__slideInDown" style="color: #000;">Roadmap</h2>
-                <p class="section-roadmap__text wow animate__animated animate__slideInRight">Check out our ambitious plans: as we go, we’ll tick the points until we’re there. What next? More daring exploits!</p>
+                <h2 class="section-roadmap__title nft-h2 wow animate__animated animate__slideInDown" style="color: #000;text-align: center; color: #5552FE;">Road map</h2>
+
+
+
+                <section class="section-color-block m-0">
+                    <div class="section-color-block__container container pt-5 pb-5">
+                        <div class="section-color-block__wrapper row justify-content-between" style="padding: 320px 70px 42px 70px;">
+    
+                        </div>
+                    </div>
+                </section>
+
+
+                <p class="section-roadmap__text wow animate__animated animate__slideInRight">Check out our ambitious plans: as we go, well tick the points until were there. What next? More daring exploits!</p>
                 <ul class="section-roadmap__list list-unstyled">
                     <li class="section-roadmap__item wow animate__animated animate__fadeInUp" data-wow-delay="0.1s">
                         <div class="section-roadmap__item-heading">
