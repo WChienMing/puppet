@@ -104,12 +104,12 @@
 </head>
 
 <body class="theme-light">
-    <header class="header" style="background: linear-gradient(180deg, #050166 50%, rgba(5, 1, 102, 0.47) 100%);">
+    <header class="header" style="background: #0F1B6C;">
         <div class="container">
             <nav class="header__navbar navbar navbar-expand-lg">
                 <a class="navbar-brand" href="./">
                     <!-- <img src="public/img/logo.svg" alt="" /> -->
-                    <p class="m-0 logo">PUPPET</p>
+                    <p class="m-0 logo" style="transform: rotate(-3.248deg);">PUPPET</p>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
