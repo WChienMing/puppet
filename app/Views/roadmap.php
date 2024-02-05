@@ -1,22 +1,78 @@
-<main class="main m-0 py-5">
+<main class="main m-0 py-5" style="background: #070C2C;">
     <section id="roadmap" class="section-roadmap">
-        <!-- <div class="section-roadmap__image"></div> -->
+        <div class="section-roadmap__image"></div>
         <div class="section-roadmap__container container">
             <div class="section-roadmap__wrapper">
-                <h2 class="section-roadmap__title nft-h2 wow animate__animated animate__slideInDown" style="color: #000;text-align: center; color: #5552FE;">Road map</h2>
-
-
+                <h2 class="section-roadmap__title nft-h2 wow animate__animated animate__slideInDown">Road map</h2>
 
                 <section class="section-color-block m-0">
                     <div class="section-color-block__container container pt-5 pb-5">
-                        <div class="section-color-block__wrapper row justify-content-between" style="padding: 320px 70px 42px 70px;">
-    
+                        <div class="section-color-block__wrapper_new row d-flex align-items-center">
+                            <div class="section-color-block__content col-12 col-sm-4 col-md-4 mb-md-0">
+                                <h2 class="section-color-block__title nft-h2 text-yellow" style="text-align: center;">x Hype</h2>
+                            </div>
+                            <div class="section-color-block__content col-12 col-sm-4 col-md-4 mb-4 mb-md-0">
+                                <div class="section-image-item-roadmap">
+                                    <img src="public/img/nft_puppet/nb_nft_2.png" alt="" />
+                                </div>
+                            </div>
+                            <div class="section-color-block__content col-12 col-sm-4 col-md-4 mb-md-0">
+                                <h2 class="section-color-block__title nft-h2" style="background: linear-gradient(90deg, #877CF6 0%, #29BCED 100%);
+                                    -webkit-background-clip: text;
+                                    background-clip: text;
+                                    color: transparent;
+                                    -webkit-text-fill-color: transparent;
+                                    text-align: center;">
+                                X puppet</h2>
+                            </div>
                         </div>
                     </div>
                 </section>
-
-
-                <p class="section-roadmap__text wow animate__animated animate__slideInRight">Check out our ambitious plans: as we go, well tick the points until were there. What next? More daring exploits!</p>
+            </div>
+        </div>
+    </section>
+    <section class="section_bar_map" style="transform: rotate(4.773deg); background: var(--banner, linear-gradient(90deg, #FAFB93 0%, #E6FE60 100%)); margin-top: 0;">
+        <div class="row">
+            <ul class="social__list">
+                <div class="section_bar_text">
+                Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house &nbsp; Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house &nbsp; Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house &nbsp; Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house
+                </div>
+            </ul>
+        </div>
+    </section>
+    <section class="section_bar_map" style="transform: rotate(-3.248deg); background: var(--banner-2, linear-gradient(90deg, #874DD0 0%, #B59AFD 100%)); margin-top: 0;">
+        <div class="row">
+            <ul class="social__list">
+                <div class="section_bar_text" style="color: #F2F2F2;">
+                    Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house &nbsp; Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house &nbsp; Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house &nbsp; Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house
+                </div>
+            </ul>
+        </div>
+    </section>
+    <section class="section-title-text m-0" style="padding-top: 180px; padding-bottom: 180px;">
+        <div class="section-title-text__container container">
+            <img src="public/img/story-element.svg" alt="" class="section-title-text__element" />
+            <div class="section-title-text__item">
+                <h2 class="section-title-text__title nft-h2 text-yellow" style="display: flex; justify-content: space-around;">0%</h2>
+                <div class="section-title-text__text">
+                To get the right jumpstart, we need some solid boost. Now, we're talking a few angels into working with us - so far so good! As expected, we'll raise the needed amount by next month.
+                </div>
+            </div>
+            <div class="section-title-text__item">
+                <h2 class="section-title-text__title nft-h2 text-yellow" style="display: flex; justify-content: space-around;">10 %</h2>
+                <div class="section-title-text__text">
+                Thats where art becomes a part of the digital world. We wrap it like a gift in a nice and pretty NFT shell to make sure the soon-to-be owner is happy about everything.
+                </div>
+            </div>
+            <div class="section-title-text__item">
+                <h2 class="section-title-text__title nft-h2 text-yellow" style="display: flex; justify-content: space-around;">25 %</h2>
+                <div class="section-title-text__text">
+                    Coming Soon !!! 
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- <section id="roadmap" class="section-roadmap">
                 <ul class="section-roadmap__list list-unstyled">
                     <li class="section-roadmap__item wow animate__animated animate__fadeInUp" data-wow-delay="0.1s">
                         <div class="section-roadmap__item-heading">
@@ -96,5 +152,5 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 </main>
