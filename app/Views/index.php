@@ -7,7 +7,7 @@
                     <h1 class="section-hero__title nft-h1 animate__animated animate__fadeInLeft d-flex justify-content-center">
                     The New Puppet NFT Collection</h1>
                     <div class="section-hero__text animate__animated animate__fadeInLeft animate__delay-1s pb-0 d-flex justify-content-center">
-                    "Step into the Extraordinary: Puppet NFTs – Where Ancient Tales Meet Digital Wonders!"
+                    "Step into the Extraordinary: Puppet NFTs – The Soul Stone and the Messenger of the Void!"
                     </div>
                 </div>
             </div>
@@ -67,11 +67,7 @@
                     <div class="section-description__column col-lg-12 col-md-12 col-12">
                         <h2 class="section-description__title nft-h2 linear" style="text-align: center; color: #ECFF87;">HOW IT HAPPENED ??</h2>
                         <p class="section-description__text" style="text-align: center; color: #FFF;">
-                        Unexpected Crossing in an ordinary city, lived a man named Steve, a typical office worker whose life was mundane and somewhat dull. Each day, he navigated through the hustle and bustle of the office, diligently working, yet feeling a peculiar 
-                        <br>
-                        yearning for something beyond the routine.
-                        <br>
-                        One day, as Steve was heading home, he stumbled upon an abandoned, ancient bookstore. Driven by curiosity, he entered and picked up an old book. As he flipped through its pages, a sudden surge of energy engulfed him, spiriting him away into a world of vibrant colors and oddities. To his astonishment, he found himself transformed into a puppet-like being.
+                        In an extraordinary turn of events in a quiet town, something extraordinary happens. This small town was originally peaceful, and the residents' lives were in order. But one day, an unknown magic quietly invaded. Everyone is doing their daily work, but they don't know that their destiny is about to change dramatically.
                         </p>
                     </div>
                 </div>
@@ -98,7 +94,7 @@
                 <div class="section-title-text__item">
                     <h2 class="section-title-text__title nft-h3" style="color: #ECFF87;">Still more?</h2>
                     <div class="section-description__text" style="color: #fff;">
-                        Unleash the magic with our diverse Puppet NFT collection! Each puppet possesses distinct abilities, making them a one-of-a-kind digital treasure. From mind-bending talents to mesmerizing energy manipulation, our variants redefine the NFT experience.
+                    Unleash the magic and explore our diverse collection of Puppet NFTs! Each puppet has unique abilities, making them unique digital treasures. From mind-bending talents to mesmerizing energy manipulation, our variants redefine the NFT experience.
                     </div>
                 </div>
             </div>
