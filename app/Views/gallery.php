@@ -1,4 +1,4 @@
-<main class="main pt-5 pb-5" style="background: #070C2C;">
+<main class="main pt-5 pb-5 dark_background">
     <div class="container">
             <div class="col-md-12 wow animate__animated animate__fadeIn" data-wow-delay="0.2s">
                 <h2 class="section-roadmap__title nft-h2 wow animate__animated animate__slideInDown">Gallery</h2>

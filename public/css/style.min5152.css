@@ -19,6 +19,10 @@ body {
   font-size: 15px;
   line-height: 23px;
 }
+
+.dark_background{
+  background: #070C2C;
+}
 body.theme-dark {
   background-color: #222;
   color: #fff;
@@ -419,7 +423,7 @@ a.link-demo--visit {
 }
 
 .content {
-  max-width: 713px;
+  /* max-width: 713px; */
   margin-left: auto;
   margin-right: auto;
   padding-top: 50px;
@@ -2836,8 +2840,8 @@ color: #EAFE69;
 
 .section-color-block__wrapper {
   position: relative;
-  background-color: #1d51fe;
-  /* background-image: url(../img/section-action.svg); */
+  background-color: #874DD0;
+  background-image: url(../img/about_back.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -2848,7 +2852,7 @@ color: #EAFE69;
 }
 @media (min-width: 992px) {
   .section-color-block__wrapper {
-    padding: 60px 70px 42px 70px;
+    padding: 26px 70px 0px 70px;
   }
 }
 

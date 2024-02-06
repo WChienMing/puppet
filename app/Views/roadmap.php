@@ -1,4 +1,4 @@
-<main class="main m-0 py-5" style="background: #070C2C;">
+<main class="main m-0 py-5 dark_background">
     <section id="roadmap" class="section-roadmap">
         <div class="section-roadmap__image"></div>
         <div class="section-roadmap__container container">
