@@ -943,7 +943,8 @@ a.link-demo--visit {
   box-shadow: none;
 }
 .header .navbar-toggler[aria-expanded=true] .navbar-toggler-icon {
-  background-image: url(../img/sprite.svg#menu-close);
+  /* background-image: url(../img/sprite.svg#menu-close); */
+  background-image: url(../img/sprite.svg#menu-close-dark);
   width: 22px;
   height: 22px;
 }
@@ -951,7 +952,8 @@ a.link-demo--visit {
   background-image: url(../img/sprite.svg#menu-close-dark);
 }
 .header .navbar-toggler[aria-expanded=false] .navbar-toggler-icon {
-  background-image: url(../img/sprite.svg#menu-open);
+  /* background-image: url(../img/sprite.svg#menu-open); */
+  background-image: url(../img/sprite.svg#menu-open-dark);
   width: 29px;
   height: 22px;
 }

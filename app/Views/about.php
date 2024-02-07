@@ -113,19 +113,40 @@
                 </div>
             </div>
         </div>
+
+        <!-- <div class="container">
+            <div class="row mb-5">
+                <div class="col-12 col-md-6 order-2 order-md-1">
+                    <h2 class="nft-h2 nft-h2--long mt-0">Opening: The conspiracy of the dark night</h2>
+                    <p class="section-title-text__text">
+                        In a quiet night, an inconspicuous town was involved in an unknown conspiracy...
+                    </p>
+                </div>
+                <div class="col-12 col-md-6 order-1 order-md-2">
+                    <picture>
+                        <source srcset="public/img/img_1.webp" media="(min-width: 768px)" />
+                        <img class="img-fluid rounded" src="public/img/img_1.webp" alt="" />
+                    </picture>
+                </div>
+            </div>
+        </div> -->
+
+
+
+
         <div class="container">
 			<div class="content">
-                <div class="columns mb-5">
-                    <div class="columns__content">
+                <div class="columns row mb-5">
+                    <div class="columns__content col-12 col-md-6 order-2 order-md-1">
                         <h2 class="nft-h2 nft-h2--long mt-0">Opening： The conspiracy of the dark night</h2>
                         <p class="section-title-text__text">
                         In a quiet night, an inconspicuous town was involved in an unknown conspiracy. Hidden in the shadows, a witch is drawing a huge magic circle in the middle of the town. Her eyes reveal her desire for infinite magic. Her goal is very clear - it is a legendary philosopher's stone that can seal the soul.
                         </p>
                     </div>
-                    <div class="columns__image">
+                    <div class="columns__image col-12 col-md-6 order-1 order-md-2">
                         <picture>
                             <source srcset="public/img/img_1.webp" media="(min-width: 800px)" />
-                            <img class="img-fluid rounded" src="public/img/img_1.webp" alt="" />
+                            <img class="img-fluid rounded mb-4" src="public/img/img_1.webp" alt="" />
                         </picture>
                     </div>
                 </div>
@@ -145,17 +166,17 @@
                     </div>
                 </div>
 
-                <div class="columns mb-5">
-                    <div class="columns__content">
+                <div class="columns row mb-5">
+                    <div class="columns__content col-12 col-md-6 order-2 order-md-1">
                         <h2 class="nft-h2 nft-h2--long mt-0">Ending: A harbinger of a new home</h2>
                         <p class="section-title-text__text">
                         The Messenger of Peace used his power to point out a clear path for the souls in chaos. They found a new home in a doll workshop located on the edge of the town. The open door there was like a ray of light, welcoming every lost soul. . They found new bodies here and found a sense of peace. When the Messenger of Peace disappears into the night, what is left behind is not only a new safe haven, but also the prelude to a fantastic journey that is about to begin.
                         </p>
                     </div>
-                    <div class="columns__image">
+                    <div class="columns__image col-12 col-md-6 order-1 order-md-2">
                         <picture>
                             <source srcset="public/img/img_3.webp" media="(min-width: 800px)" />
-                            <img class="img-fluid rounded" src="public/img/img_3.webp" alt="" />
+                            <img class="img-fluid rounded mb-4" src="public/img/img_3.webp" alt="" />
                         </picture>
                     </div>
                 </div>

@@ -238,55 +238,55 @@
                     </div>
                     <div class="col-lg-4">
                         <figure class="figure">
-                        <img class="figure-img img-fluid rounded" src="public/img/nft_puppet/IMG_3135.png" alt="" />
+                        <img class="figure-img img-fluid rounded" src="public/img/nft_puppet/IMG_3186.png" alt="" />
                         <div class="d-flex justify-content-between">
                             <figcaption class="figure-caption-name">Puppet</figcaption>
-                            <figcaption class="figure-caption">#1</figcaption>
+                            <figcaption class="figure-caption">#4</figcaption>
                         </div>
                         </figure>
                     </div>
                     <div class="col-lg-4">
                         <figure class="figure">
-                        <img class="figure-img img-fluid rounded" src="public/img/nft_puppet/IMG_3146.png" alt="" />
+                        <img class="figure-img img-fluid rounded" src="public/img/nft_puppet/IMG_3192.png" alt="" />
                         <div class="d-flex justify-content-between">
                             <figcaption class="figure-caption-name">Puppet</figcaption>
-                            <figcaption class="figure-caption">#2</figcaption>
+                            <figcaption class="figure-caption">#5</figcaption>
                         </div>
                         </figure>
                     </div>
                     <div class="col-lg-4">
                         <figure class="figure">
-                        <img class="figure-img img-fluid rounded" src="public/img/nft_puppet/IMG_3174.png" alt="" />
+                        <img class="figure-img img-fluid rounded" src="public/img/nft_puppet/IMG_1.png" alt="" />
                         <div class="d-flex justify-content-between">
                             <figcaption class="figure-caption-name">Puppet</figcaption>
-                            <figcaption class="figure-caption">#3</figcaption>
+                            <figcaption class="figure-caption">#6</figcaption>
                         </div>
                         </figure>
                     </div>
                     <div class="col-lg-4">
                         <figure class="figure">
-                        <img class="figure-img img-fluid rounded" src="public/img/nft_puppet/IMG_3135.png" alt="" />
+                        <img class="figure-img img-fluid rounded" src="public/img/nft_puppet/IMG_3213.png" alt="" />
                         <div class="d-flex justify-content-between">
                             <figcaption class="figure-caption-name">Puppet</figcaption>
-                            <figcaption class="figure-caption">#1</figcaption>
+                            <figcaption class="figure-caption">#7</figcaption>
                         </div>
                         </figure>
                     </div>
                     <div class="col-lg-4">
                         <figure class="figure">
-                        <img class="figure-img img-fluid rounded" src="public/img/nft_puppet/IMG_3146.png" alt="" />
+                        <img class="figure-img img-fluid rounded" src="public/img/nft_puppet/IMG_3214.png" alt="" />
                         <div class="d-flex justify-content-between">
                             <figcaption class="figure-caption-name">Puppet</figcaption>
-                            <figcaption class="figure-caption">#2</figcaption>
+                            <figcaption class="figure-caption">#8</figcaption>
                         </div>
                         </figure>
                     </div>
                     <div class="col-lg-4">
                         <figure class="figure">
-                        <img class="figure-img img-fluid rounded" src="public/img/nft_puppet/IMG_3174.png" alt="" />
+                        <img class="figure-img img-fluid rounded" src="public/img/nft_puppet/IMG_3215.png" alt="" />
                         <div class="d-flex justify-content-between">
                             <figcaption class="figure-caption-name">Puppet</figcaption>
-                            <figcaption class="figure-caption">#3</figcaption>
+                            <figcaption class="figure-caption">#9</figcaption>
                         </div>
                         </figure>
                     </div>

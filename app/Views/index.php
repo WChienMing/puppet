@@ -75,17 +75,17 @@
         </section>
         <section class="section-description pt-0">
             <div class="container">
-                <div class="d-flex justify-content-center align-items-center">
-                    <div class="d-flex flex-column align-items-center mx-4">
+                <div class="row">
+                    <div class="col-12 col-md-3 d-flex justify-content-center align-items-center mb-3">
                         <img src="public/img/nft_puppet/nft_1.svg" alt="Image 1" class="img-fluid">
                     </div>
-                    <div class="d-flex flex-column align-items-center mx-4">
+                    <div class="col-12 col-md-3 d-flex justify-content-center align-items-center mb-3">
                         <img src="public/img/nft_puppet/nft_2.svg" alt="Image 2" class="img-fluid">
                     </div>
-                    <div class="d-flex flex-column align-items-center mx-4">
+                    <div class="col-12 col-md-3 d-flex justify-content-center align-items-center mb-3">
                         <img src="public/img/nft_puppet/nft_3.svg" alt="Image 3" class="img-fluid">
                     </div>
-                    <div class="d-flex flex-column align-items-center mx-4">
+                    <div class="col-12 col-md-3 d-flex justify-content-center align-items-center mb-3">
                         <img src="public/img/nft_puppet/nft_4.svg" alt="Image 4" class="img-fluid">
                     </div>
                 </div>
