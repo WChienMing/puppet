@@ -106,7 +106,31 @@
         </div>
     </section>
     <div class="container_background">
-    <section class="container d-flex align-items-center" style="height: 1000px;">
+        <section class="section-description">
+            <div class="section-description__container container">
+                <div class="section-description__wrapper row">
+                    <div class="section-description__column col-lg-12 col-md-12 col-12">
+                        <h2 class="section-description__title nft-h2 linear" style="text-align: center; color: #ECFF87;">Another indication</h2>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="section-description pt-0">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-4 d-flex justify-content-center align-items-center mb-3" style="z-index: 99;">
+                        <img src="public/img/other/buttons_bottle.svg" alt="Image 1" class="img-fluid">
+                    </div>
+                    <div class="col-12 col-md-4 d-flex justify-content-center align-items-center mb-3" style="z-index: 99;">
+                        <img src="public/img/other/yarn_ball.svg" alt="Image 2" class="img-fluid">
+                    </div>
+                    <div class="col-12 col-md-4 d-flex justify-content-center align-items-center mb-3" style="z-index: 99;">
+                        <img src="public/img/other/puppet.svg" alt="Image 3" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- <section class="container d-flex align-items-center" style="height: 1000px;">
         <div class="section-gallery__container container" style="justify-content: space-around;">
             <div class="section-gallery__wrapper">
                 <div class="section-gallery__carousel owl-carousel custom-owl owl-theme item" id="custom">
@@ -245,8 +269,26 @@
                 </div>
             </div>
         </div>
-    </section>
+        </section> -->
     </div>
+    <section class="section_bar_one" style="transform: rotate(5deg); background: var(--banner, linear-gradient(90deg, #FAFB93 0%, #E6FE60 100%));">
+        <div class="row">
+            <ul class="social__list">
+                <div class="section_bar_text">
+                Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house &nbsp; Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house &nbsp; Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house &nbsp; Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house
+                </div>
+            </ul>
+        </div>
+    </section>
+    <section class="section_bar_one" style="transform: rotate(353deg); background: var(--banner-2, linear-gradient(90deg, #874DD0 0%, #B59AFD 100%));">
+        <div class="row">
+            <ul class="social__list">
+                <div class="section_bar_text" style="color: #F2F2F2;">
+                    Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house &nbsp; Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house &nbsp; Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house &nbsp; Puppet in da house &nbsp; #Puppet.hype &nbsp; Puppet in da house
+                </div>
+            </ul>
+        </div>
+    </section>
     <!-- <div class="section-collection__container container"> -->
         <!-- <div class="section-gallery__carousel owl-carousel custom-owl owl-theme">
             <a href="#" class="section-gallery__carousel-item">

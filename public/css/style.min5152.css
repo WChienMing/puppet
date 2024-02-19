@@ -3462,10 +3462,11 @@ color: #EAFE69;
 }
 
 .container_background{
-  background-image: url(../img/background_1.png);
+  /* background-image: url(../img/background_1.png);
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: cover;
+  background-size: cover; */
+  background: radial-gradient(81.23% 81.23% at 50% -6.69%, #7AB5F8 0%, #C7F3F1 25%, #585EFD 56%, #050824 100%);
 }
 
 
