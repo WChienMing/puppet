@@ -118,14 +118,16 @@
         <section class="section-description pt-0">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-md-4 d-flex justify-content-center align-items-center mb-3" style="z-index: 99;">
+                    <div class="col-12 col-md-4 d-flex justify-content-center align-items-center mb-3 image-hover" style="z-index: 99;">
                         <img src="public/img/other/buttons_bottle.svg" alt="Image 1" class="img-fluid">
                     </div>
-                    <div class="col-12 col-md-4 d-flex justify-content-center align-items-center mb-3" style="z-index: 99;">
+                    <div class="col-12 col-md-4 d-flex justify-content-center align-items-center mb-3 image-hover" style="z-index: 99;">
                         <img src="public/img/other/yarn_ball.svg" alt="Image 2" class="img-fluid">
                     </div>
-                    <div class="col-12 col-md-4 d-flex justify-content-center align-items-center mb-3" style="z-index: 99;">
-                        <img src="public/img/other/puppet.svg" alt="Image 3" class="img-fluid">
+                    <div class="col-12 col-md-4 d-flex justify-content-center align-items-center mb-3 image-hover" style="z-index: 99;">
+                        <a href="gallery">
+                            <img src="public/img/other/puppet.svg" alt="Image 3" class="img-fluid">
+                        </a>
                     </div>
                 </div>
             </div>

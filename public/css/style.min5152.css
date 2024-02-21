@@ -3657,3 +3657,6 @@ color: #EAFE69;
   color: #F9FC8F;
 }
 
+.image-hover img:hover{
+  filter: drop-shadow(0px 4px 18px #fff);
+}
