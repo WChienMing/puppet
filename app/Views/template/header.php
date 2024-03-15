@@ -62,43 +62,19 @@
             visibility: visible;
         }
 
-        /* .section-gallery__carousel .owl-stage {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
+        #container {
+    position: relative;
+    width: 100%; /* 使容器宽度填满屏幕宽度 */
+    height: 100vh; /* 容器高度设置为视窗高度，或根据需要调整 */
+    background: url('public/img/main.png') no-repeat center center; 
+    background-size: cover; /* 使背景图片覆盖整个容器 */
+}
 
-        .section-gallery__carousel .owl-item {
-            flex: 0 0 auto;
-        }
-
-        .section-gallery__carousel .owl-item {
-            width: auto;
-            padding: 0 10px;
-        }
-        
-
-        .custom-owl .owl-item:not(.active) .section-gallery__carousel-item {
-            display: block;
-            border-radius: 25px;
-            width: 300px;
-            height: 300px;
-            overflow: hidden;
-        }
-
-        .custom-owl .section-gallery__carousel.owl-item.active .section-gallery__carousel-item img {
-            opacity: 1;
-            transform: scale(1);
-        }
-
-        .custom-owl .section-gallery__carousel.owl-item.active {
-            visibility: visible;
-        }
-
-        .custom-owl .owl-item.active {
-            width: 560px !important;
-            opacity: 1;
-        } */
+.clickable-area {
+    position: absolute;
+    cursor: pointer;
+    background: rgba(0, 0, 0); /* 设置为完全透明 */
+}
 
     </style>
 </head>
